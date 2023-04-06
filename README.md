@@ -1,8 +1,3 @@
-# cg9_counter
-Counter-engineering some stuff
-
-This is the instructions to build a script in Python that will make possible to take full advantage of MH characters.
-
 1- PRE-NODES SETUP:
 1.1- Select all the "file" nodes with name starting with "maskFile_head" and set the following:
 
