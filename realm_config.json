@@ -1,0 +1,9 @@
+{
+    "app_id": "openpype-qalhd",
+    "config_version": 20210101,
+    "name": "OpenPype",
+    "location": "US-OR",
+    "provider_region": "aws-us-west-2",
+    "deployment_model": "LOCAL",
+    "environment": "production"
+}
